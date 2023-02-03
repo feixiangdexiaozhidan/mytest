@@ -1,4 +1,4 @@
-[![LICENSE](https://img.shields.io/badge/license-Apache--2.0-blue?logo=apache)](https://github.com/IvorySQL/IvorySQL/blob/IVORY_REL_1_STABLE/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-Apache--2.0-blue?logo=apache)](https://github.com/feixiangdexiaozhidan/mytest/blob/master/LICENSE)
 <p align="center">
 	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-dd77653d7c9f197dd9d93684f3c8dcfbab6.png">
 </p>
