@@ -20,6 +20,7 @@
 * 支持Postgresql数据库
 * 前端地址:
 * 演示地址: http://118.190.151.85:59005/user/login（账号密码:admin/admin）
+* 操作手册：https://feixiangdexiaozhidan.github.io
 
 ## 内置功能
 * 用户管理: 完成平台用户的配置管理
