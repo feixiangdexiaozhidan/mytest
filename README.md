@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-dd77653d7c9f197dd9d93684f3c8dcfbab6.png">
+	<img alt="logo" src="/image/ee62ddc82b8c9ed1572efbb3f0c1da36.jpeg">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">SDNU v2.0</h1>
 <h4 align="center">基于SpringBoot+React+Postgresql前后端分离的数据库实训平台</h4>
