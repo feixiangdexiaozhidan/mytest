@@ -172,18 +172,18 @@
 * Maven3.0+
 * PostgreSQL 9.4+
 ## 本地部署
-* 通过git下载源码
+### 步骤
+* 通过git下载源码: git clone + 项目git地址
 * idea、eclipse需安装lombok插件，不然会提示找不到entity的get set方法
-* 创建数据库，数据库编码为UTF-8
-* 执行resources/init.sql文件，初始化数据
-* 修改resources/application.properties配置个人数据库信息
-* /lib目录下的两个jar包放到相应的maven仓库中
-* 配置tomcat
-* 部署项目sdnu-edu-api.war，名称为/sdnu-edu-api
+* /lib目录下的两个jar包放到相应的maven仓库com.aspose包下
+* 安装Postgresql数据库后，新建数据库，编码模式UTF-8
+* 在新建数据库默认publish模式下执行resources/init.sql文件，初始化数据
+* 修改resources/application.properties,配置个人数据库信息
 * maven clean 、 package
+* 配置tomcat并部署项目sdnu-edu-api.war，名称为/sdnu-edu-api
 * 启动项目
-* swagger路径: http://localhost:8080/sdnu-edu-api/swagger-ui.html
-* 再启动前端项目，前端地址：https://gitee.com/XXX
+### 访问
+* 部署启动前端项目，前端项目地址：https://gitee.com/XXX
 * 账号密码：admin/admin, js/js
 ## 如何贡献
 * 提交一个问题或者功能, 请在提交前进行验证.
