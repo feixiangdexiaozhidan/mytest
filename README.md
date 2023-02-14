@@ -174,7 +174,7 @@
 ## 本地部署
 ### 开发环境搭建
 * 1.git源码下载
-<br />&emsp;`git clone git@github.com:feixiangdexiaozhidan/mytest.git`
+`git clone git@github.com:feixiangdexiaozhidan/mytest.git`
 * 2.lombok插件安装
 <br />&emsp;idea File->setting->plugins->Marketplace 搜索 lombok ->install->Apply->OK->重启idea。
 * 3.第三方包支持 
@@ -200,6 +200,7 @@
 <br />&emsp;3.linux：执行命令&emsp;`./startup.sh`
 ### 访问
 * 部署启动前端项目，请参考前端相关文档，前端项目地址：https://github.com/feixiangdexiaozhidan/mytest-qianduan
+* 登录地址: http://XXXX:XX/user/login
 * 账号密码：admin/admin, js/js
 ## 如何贡献
 * 提交一个问题或者功能, 请在提交前进行验证.
