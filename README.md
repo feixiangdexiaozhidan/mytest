@@ -174,15 +174,15 @@
 ## 本地部署
 ### 开发环境搭建
 * 1.git源码下载
-<br />`git clone git@github.com:feixiangdexiaozhidan/mytest.git`
+<br />&emsp;`git clone git@github.com:feixiangdexiaozhidan/mytest.git`
 * 2.lombok插件安装
-<br />idea File->setting->plugins->Marketplace 搜索 lombok ->install->Apply->OK->重启idea。
+<br />&emsp;idea File->setting->plugins->Marketplace 搜索 lombok ->install->Apply->OK->重启idea。
 * 3.第三方包支持 
-<br />/lib目录下的两个aspose-cells-18.6.jar、aspose-words-18.6-jdk16.jar放到本地maven仓库com.aspose包下。
+<br />&emsp;/lib目录下的两个aspose-cells-18.6.jar、aspose-words-18.6-jdk16.jar放到本地maven仓库com.aspose包下。
 * 4.数据库安装配置
-<br />安装Postgresql数据库，新建数据库，编码模式UTF-8。
+<br />&emsp;安装Postgresql数据库，新建数据库，编码模式UTF-8。
 * 5.初始化数据库
-<br />在数据库publish模式下执行/src/main/resources/init.sql文件，初始化数据。
+<br />&emsp;在数据库publish模式下执行/src/main/resources/init.sql文件，初始化数据。
 * 6.配置数据库信息
 <br />&emsp;位置：/src/main/resources/application.properties
 <br />&emsp;配置IP地址：`spring.datasource.url=jdbc:postgresql://XXX:X/test`
