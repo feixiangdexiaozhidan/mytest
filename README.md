@@ -20,7 +20,7 @@
 * 后端采用Spring Boot、Mybatis-Plus、Jwt
 * 权限认证使用Jwt安全可控
 * 支持Postgresql数据库
-* 前端地址:
+* 前端地址: https://github.com/feixiangdexiaozhidan/mytest-qianduan
 ## 内置功能
 * 用户管理: 完成平台用户的配置管理
 * 角色管理: 角色权限分配
