@@ -3,7 +3,7 @@
 	<img alt="logo" height="200" width="300" src="/image/highgo.jpg">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">SDNU v2.0</h1>
-<h4 align="center">基于SpringBoot+React+Postgresql前后端分离的数据库实训平台11111122233553444</h4>
+<h4 align="center">基于SpringBoot+React+Postgresql前后端分离的数据库实训平台</h4>
 <p align="center">
 	<a href="https://gitee.com/feixiangdexiaozhidan/mytest"><img src="https://img.shields.io/badge/sdnu-v2.0-brightgreen.svg"></a>
 	<a href="https://gitee.com/feixiangdexiaozhidan/mytest/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
